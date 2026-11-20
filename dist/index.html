@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Banaweer Trading Establishment | مؤسسة بانوير التجارية</title>
+<link rel="canonical" href="https://banaweer.com/en/">
+<link rel="alternate" hreflang="en" href="https://banaweer.com/en/">
+<link rel="alternate" hreflang="ar" href="https://banaweer.com/ar/">
+<link rel="alternate" hreflang="x-default" href="https://banaweer.com/en/">
+<link rel="icon" href="/assets/img/icon.png" type="image/png">
+<script>
+  (function () {
+    var lang;
+    try { lang = localStorage.getItem('banaweer-lang'); } catch (e) {}
+    if (lang !== 'en' && lang !== 'ar') {
+      var nav = (navigator.languages && navigator.languages[0]) || navigator.language || 'en';
+      lang = /^ar\b/i.test(nav) ? 'ar' : 'en';
+    }
+    location.replace('/' + lang + '/');
+  })();
+</script>
+<style>body{font-family:system-ui,sans-serif;background:#141414;color:#fff;display:grid;place-items:center;min-height:100vh;margin:0;text-align:center}a{color:#E85D04;font-weight:700;margin:0 12px}</style>
+</head>
+<body>
+<p><a href="/en/">English</a> | <a href="/ar/" lang="ar">عربي</a></p>
+</body>
+</html>

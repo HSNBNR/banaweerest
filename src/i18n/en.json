@@ -1,0 +1,244 @@
+{
+  "brand": {
+    "name": "BANAWEER EST.",
+    "full": "Banaweer Trading Establishment",
+    "tagline": "Bikes & Kids' ride-ons"
+  },
+  "business": {
+    "city": "Jeddah",
+    "address": "Al-Sabeen Showroom, 6405 Prince Majed St, Al-Mushrifah, Jeddah 23341, Saudi Arabia",
+    "hours": "Saturday – Thursday: 9:00 AM – 11:00 PM",
+    "hoursNote": "Friday: Closed"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "blog": "Blog",
+    "contact": "Contact Us",
+    "shop": "Shop",
+    "shopAria": "Shop online (opens the Banaweer store in a new tab)",
+    "menu": "Open menu",
+    "close": "Close menu",
+    "skip": "Skip to main content",
+    "langSwitch": "اقرأ هذه الصفحة بالعربية",
+    "langLabel": "Language"
+  },
+  "meta": {
+    "home": {
+      "title": "Banaweer | Mountain, Road, Sport & Kids' Bikes in Jeddah",
+      "description": "Banaweer Trading Establishment in Jeddah sells mountain, road and sport bikes, kids' bikes and tricycles, kids' ride-ons and scooters, helmets and accessories, with expert advice and after-sales service."
+    },
+    "about": {
+      "title": "About Us | Banaweer Trading Establishment",
+      "description": "Learn who Banaweer is: a Jeddah bicycle retailer driven by a passion for riding, offering bikes for every age, kids' products, assembly, maintenance and fitting advice."
+    },
+    "blog": {
+      "title": "Blog: Buying Guides, Maintenance & Riding Routes | Banaweer",
+      "description": "Bike buying guides, maintenance tips, riding routes in Saudi Arabia, safety advice and news from the Banaweer team."
+    },
+    "contact": {
+      "title": "Contact Us | Banaweer Trading Establishment",
+      "description": "Call, WhatsApp, email or visit the Banaweer Al-Sabeen showroom in Al-Mushrifah, Jeddah. Open Saturday to Thursday, 9 AM to 11 PM."
+    }
+  },
+  "common": {
+    "shopNow": "Shop Now",
+    "learnMore": "Learn more",
+    "readMore": "Read article",
+    "viewAll": "View all articles",
+    "visitStore": "Visit the store",
+    "newTab": "(opens in a new tab)"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Bikes · Kids' Ride-ons · Accessories",
+      "title": "Ride Further. Ride Better.",
+      "subtitle": "Mountain, road and sport bikes, kids' bikes and ride-ons, chosen with care and backed by people who ride.",
+      "shop": "Shop Now",
+      "explore": "Explore Categories",
+      "imageAlt": "Rider on a mountain bike crossing a desert trail at sunset (placeholder image)"
+    },
+    "categories": {
+      "eyebrow": "Find your ride",
+      "title": "Shop by category",
+      "subtitle": "Whatever your terrain, we have a bike for it.",
+      "cta": "Shop",
+      "items": {
+        "mountain": { "name": "Mountain Bikes", "desc": "Hardtails and full-suspension bikes for trails and wadis.", "alt": "Mountain bike on a rocky trail (placeholder)" },
+        "road": { "name": "Road & Hybrid Bikes", "desc": "Light, fast bikes for open roads, and comfortable hybrids for everyday rides.", "alt": "Road bike on an empty highway (placeholder)" },
+        "sport": { "name": "Sport Bikes", "desc": "Performance bikes for training, racing and speed.", "alt": "Sport performance bike (placeholder)" },
+        "city": { "name": "Kids' Bikes", "desc": "Safe first bikes and tricycles in sizes for every age.", "alt": "Kids' bike (placeholder)" },
+        "rideons": { "name": "Kids' Ride-ons", "desc": "Electric cars, electric quad bikes, scooters and push cars for little riders.", "alt": "Kids' electric ride-on car (placeholder)" },
+        "parts": { "name": "Accessories & Parts", "desc": "Helmets, lights, Rambo upgrades, accessories and spare parts.", "alt": "Bike accessories and spare parts (placeholder)" }
+      }
+    },
+    "why": {
+      "eyebrow": "Why Banaweer",
+      "title": "More than a shop",
+      "items": {
+        "brands": { "title": "A Trusted Brand", "text": "The original, trusted Banaweer brand for more than 20 years." },
+        "advice": { "title": "Expert Advice", "text": "We help you pick the right size, type and setup for how you ride." },
+        "service": { "title": "After-Sales Services", "text": "Assembly, tune-ups, repairs and maintenance in our own workshop." },
+        "price": { "title": "Competitive Prices", "text": "Fair pricing on bikes, kids' ride-ons, parts and accessories." }
+      }
+    },
+    "featured": {
+      "eyebrow": "Featured",
+      "title": "Popular collections",
+      "subtitle": "Customer favourites from our online store.",
+      "cta": "View in store",
+      "items": [
+        { "name": "Cobra Freestyle Bikes", "cat": "Sizes 12\"–26\"", "img": "sport", "store": "cobra" },
+        { "name": "Rambo Classic Fat-Tyre Bikes", "cat": "Sizes 12\"–24\"", "img": "city", "store": "rambo" },
+        { "name": "Classic Indian Bikes", "cat": "Sizes 26\"–28\"", "img": "road", "store": "indian" },
+        { "name": "Kids' Scooters", "cat": "Drift, stand-up & kick", "img": "rideons", "store": "scooters" }
+      ]
+    },
+    "latest": {
+      "eyebrow": "From the blog",
+      "title": "Latest articles"
+    },
+    "testimonials": {
+      "eyebrow": "Riders say",
+      "title": "Customer reviews",
+      "subtitle": "From verified buyers on our online store.",
+      "verified": "Verified buyer",
+      "translated": "Translated from Arabic",
+      "rating": "Rated {n} out of 5",
+      "listLabel": "Customer reviews, scroll for more",
+      "prev": "Previous review",
+      "next": "Next review",
+      "store": "All reviews on our store",
+      "google": "Read our reviews on Google"
+    },
+    "showroom": {
+      "title": "Visit our showroom",
+      "text": "Test-ride a bike, get sized properly, and talk to our team in person.",
+      "cta": "Get directions"
+    }
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "About us",
+      "title": "Built by riders, for bike lovers"
+    },
+    "story": {
+      "title": "Our story",
+      "p1": "Bike lovers deserve a shop that understands them. From our showroom, we bring you bikes of every kind: from your first bike or your child's, to a trail-ready mountain bike, a fast road bike or the classic Rambo, alongside helmets, lights and accessories.",
+      "p2": "We explain things plainly and stay with you after the sale. Whether you ride the desert trails, the city's streets or the open road, we want every ride to start with the right bike.",
+      "imageAlt": "Banaweer showroom with bikes on display (placeholder)"
+    },
+    "vmv": {
+      "vision": { "title": "Vision", "text": "To be the first choice for bike lovers in Saudi Arabia, and to help build an active, confident community of cyclists." },
+      "mission": { "title": "Mission", "text": "To offer reliable bikes and kids' products at fair prices, with honest advice and service that keeps every rider on the road." },
+      "values": { "title": "Values", "text": "Trust, quality, safety and a real passion for bikes, in everything we sell and every customer we serve." }
+    },
+    "offer": {
+      "title": "What we offer",
+      "productsTitle": "Products",
+      "products": ["Mountain bikes", "Road & hybrid bikes", "Sport, Cobra & Rambo bikes", "Kids' bikes, tricycles & folding bikes","Helmets, lights & accessories", "Kids' electric cars, scooters, strollers & play equipment"],
+      "servicesTitle": "Services",
+      "services": ["Professional assembly", "Maintenance & tune-ups", "Bike fitting & sizing advice", "Genuine spare parts & repairs"]
+    },
+    "gallery": {
+      "title": "Inside the showroom",
+      "items": ["Showroom floor (placeholder)", "Workshop and service area (placeholder)", "Accessories wall (placeholder)", "Kids' corner (placeholder)"]
+    }  },
+  "blog": {
+    "eyebrow": "Banaweer Blog",
+    "title": "Ride smarter",
+    "subtitle": "Buying guides, maintenance tips, riding routes and safety advice from our team.",
+    "search": "Search articles",
+    "searchPlaceholder": "Search articles…",
+    "filterLabel": "Filter by category",
+    "all": "All",
+    "categories": {
+      "buying-guides": "Buying Guides",
+      "maintenance": "Maintenance Tips",
+      "routes": "Riding Routes in Saudi Arabia",
+      "safety": "Safety",
+      "news": "News"
+    },
+    "noResults": "No articles match your search.",
+    "prev": "Previous",
+    "next": "Next",
+    "pagination": "Blog pages",
+    "by": "By",
+    "minRead": "min read",
+    "share": "Share",
+    "copyLink": "Copy link",
+    "copied": "Link copied",
+    "related": "Related articles",
+    "back": "All articles",
+    "cta": {
+      "title": "Ready to ride?",
+      "text": "Browse bikes, kids' ride-ons and accessories in our online store.",
+      "button": "Shop Now"
+    }
+  },
+  "contact": {
+    "eyebrow": "Contact us",
+    "title": "Let's talk bikes",
+    "subtitle": "Questions about a bike, a repair or a spare part? Send us a message, call, or drop by the showroom.",
+    "formTitle": "Send us a message",
+    "fields": {
+      "name": "Full name",
+      "phone": "Phone number",
+      "countryCode": "Country code",
+      "email": "Email",
+      "type": "Inquiry type",
+      "typePlaceholder": "Choose one",
+      "message": "Message"
+    },
+    "types": {
+      "sales": "Sales",
+      "maintenance": "Maintenance",
+      "parts": "Spare Parts",
+      "other": "Other"
+    },
+    "submit": "Send message",
+    "sending": "Sending…",
+    "required": "Required",
+    "errors": {
+      "name": "Please enter your name.",
+      "phone": "Please enter a valid 9-digit number after +966, e.g. 5X XXX XXXX.",
+      "phoneIntl": "Please enter a valid phone number without the country code.",
+      "email": "Please enter a valid email address.",
+      "type": "Please choose an inquiry type.",
+      "message": "Please write a message (at least 10 characters).",
+      "spam": "Your message could not be sent. Please try again.",
+      "send": "Something went wrong. Please try again, or call or WhatsApp us."
+    },
+    "success": {
+      "title": "Thank you! Your message has been sent.",
+      "text": "Our team will get back to you soon."
+    },
+    "info": {
+      "title": "Reach us directly",
+      "call": "Call us",
+      "whatsapp": "WhatsApp",
+      "whatsappCta": "Chat on WhatsApp",
+      "email": "Email",
+      "address": "Al-Sabeen Showroom",
+      "hours": "Working hours",
+      "customerService": "Customer service"
+    },
+    "mapTitle": "Map showing the Banaweer showroom location",
+    "openMap": "Open in Google Maps"
+  },
+  "footer": {
+    "blurb": "Banaweer Trading Establishment, Jeddah: mountain, road and sport bikes, kids' bikes, kids' ride-ons, helmets and accessories, with expert advice and after-sales service.",
+    "quick": "Quick links",
+    "contact": "Contact",
+    "hours": "Working hours",
+    "follow": "Follow us",
+    "store": "Online store",
+    "rights": "All rights reserved.",
+    "vat": "VAT No."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "text": "The page you're looking for has taken a different trail.",
+    "home": "Back to home"
+  }
+}

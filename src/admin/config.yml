@@ -1,0 +1,36 @@
+# Decap CMS configuration (optional). See README → "Editing blog posts with a CMS".
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "src/assets/uploads"
+public_folder: "/assets/uploads"
+
+collections:
+  - name: "posts_en"
+    label: "Blog posts (English)"
+    folder: "src/posts/en"
+    create: true
+    slug: "{{slug}}"
+    fields: &post_fields
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Excerpt", name: "excerpt", widget: "text" }
+      - { label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Buying Guides / أدلة الشراء", value: "buying-guides" }
+          - { label: "Maintenance Tips / نصائح الصيانة", value: "maintenance" }
+          - { label: "Riding Routes in Saudi Arabia / مسارات القيادة", value: "routes" }
+          - { label: "Safety / السلامة", value: "safety" }
+          - { label: "News / الأخبار", value: "news" }
+      - { label: "Author", name: "author", widget: "string" }
+      - { label: "Cover image", name: "cover", widget: "image", hint: "Upload a 1600x1000 photo, or type a built-in placeholder name: mountain, road, sport, city, moto, parts" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "posts_ar"
+    label: "المقالات (عربي)"
+    folder: "src/posts/ar"
+    create: true
+    slug: "{{slug}}"
+    fields: *post_fields

@@ -1,0 +1,40 @@
+{
+  "_readme": "Customer reviews shown on the homepage, copied from the Salla store (salla.sa/banaweer.sa/testimonials). Newest first. First names only, for the customers' privacy. 'en' is a translation of the original Arabic review.",
+  "reviews": [
+    {
+      "name": { "ar": "إبراهيم", "en": "Ibrahim" },
+      "stars": 5,
+      "date": "2026-11-16",
+      "ar": "رائع.. ودراجة بنفس اسم العلامة",
+      "en": "Great! A bike that lives up to the brand's name."
+    },
+    {
+      "name": { "ar": "حمدان", "en": "Hamdan" },
+      "stars": 5,
+      "date": "2026-09-17",
+      "ar": "ممتاز",
+      "en": "Excellent."
+    },
+    {
+      "name": { "ar": "عمرو", "en": "Amr" },
+      "stars": 4,
+      "date": "2026-08-17",
+      "ar": "متجر ممتاز وسرعه في الرد علي الاستفسارات والمنتج كما بالوصف",
+      "en": "Excellent store, quick to answer questions, and the product was exactly as described."
+    },
+    {
+      "name": { "ar": "وليد", "en": "Waleed" },
+      "stars": 5,
+      "date": "2026-07-08",
+      "ar": "متجر ممتاز والدراجة رائعة",
+      "en": "Excellent store, and the bike is great."
+    },
+    {
+      "name": { "ar": "محمد", "en": "Mohammed" },
+      "stars": 5,
+      "date": "2024-11-11",
+      "ar": "اشكر البائع جزيل الشكر",
+      "en": "Many thanks to the seller."
+    }
+  ]
+}

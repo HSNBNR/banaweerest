@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" preserveAspectRatio="xMidYMid slice"><defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#16110E"/><stop offset=".65" stop-color="#3A2416"/><stop offset="1" stop-color="#7A3A10"/></linearGradient>
+    <radialGradient id="glow" cx=".72" cy=".42" r=".5"><stop offset="0" stop-color="#E85D04" stop-opacity=".35"/><stop offset="1" stop-color="#E85D04" stop-opacity="0"/></radialGradient></defs><rect width="1600" height="1000" fill="url(#sky)"/><rect width="1600" height="1000" fill="url(#glow)"/><g transform="translate(0 -300)"><circle cx="1260" cy="560" r="110" fill="#FF8A3D" opacity=".45"/><path d="M0 760 Q 300 640 620 740 T 1200 700 T 1600 730 V1300 H0Z" fill="#2A1A0E"/><path d="M0 850 Q 400 760 820 860 T 1600 820 V1300 H0Z" fill="#140D08"/><g transform="translate(800 720) scale(1.1)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-230 -10 Q-230 -95 -150 -95 L-40 -95 L20 -175 L125 -175 L165 -95 L215 -88 Q250 -78 250 -30 L250 -10 Z" fill="#E85D04" stroke="#E85D04" stroke-width="8"/>
+    <path d="M32 -162 L115 -162 L143 -102 L-5 -102 Z" fill="#241A14" stroke="#fff" stroke-width="7"/>
+    <path d="M-150 -95 L-150 -150 M-175 -150 H-125" stroke="#fff" stroke-width="12"/>
+    <circle cx="232" cy="-52" r="13" fill="#fff"/>
+    <path d="M-60 -60 H60" stroke="#fff" stroke-width="8" opacity=".6"/>
+    <circle cx="-135" cy="20" r="68" fill="#1b1b1b" stroke="#fff" stroke-width="24"/><circle cx="145" cy="20" r="68" fill="#1b1b1b" stroke="#fff" stroke-width="24"/>
+    <circle cx="-135" cy="20" r="16" fill="#fff"/><circle cx="145" cy="20" r="16" fill="#fff"/></g></g></svg>

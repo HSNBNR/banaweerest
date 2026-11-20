@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" preserveAspectRatio="xMidYMid slice"><defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1A0C04"/><stop offset=".65" stop-color="#7A2E05"/><stop offset="1" stop-color="#E85D04"/></linearGradient>
+    <radialGradient id="glow" cx=".72" cy=".42" r=".5"><stop offset="0" stop-color="#E85D04" stop-opacity=".35"/><stop offset="1" stop-color="#E85D04" stop-opacity="0"/></radialGradient></defs><rect width="1600" height="1000" fill="url(#sky)"/><rect width="1600" height="1000" fill="url(#glow)"/><g transform="translate(0 0)"><circle cx="1140" cy="560" r="170" fill="#FF8A3D" opacity=".85"/><path d="M0 760 Q 300 640 620 740 T 1200 700 T 1600 730 V1300 H0Z" fill="#3A1606"/><path d="M0 850 Q 400 760 820 860 T 1600 820 V1300 H0Z" fill="#1A0A04"/><g transform="translate(1110 720) scale(1.25)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="-130" cy="0" r="92" stroke="#fff" stroke-width="12"/><circle cx="130" cy="0" r="92" stroke="#fff" stroke-width="12"/>
+    <circle cx="-130" cy="0" r="10" fill="#fff"/><circle cx="130" cy="0" r="10" fill="#fff"/>
+    <path d="M-130 0 L-20 0 L-62 -122 Z M-62 -122 L82 -112 L-20 0 M82 -112 L130 0 M82 -112 L74 -146 L112 -152" stroke="#E85D04" stroke-width="13"/>
+    <path d="M-92 -136 L-40 -136" stroke="#fff" stroke-width="14"/><circle cx="-20" cy="0" r="18" stroke="#fff" stroke-width="8"/>
+    <path d="M-20 0 L4 26 M-8 26 L16 26" stroke="#fff" stroke-width="8"/></g></g></svg>
