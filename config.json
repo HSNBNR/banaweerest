@@ -1,0 +1,56 @@
+{
+  "_readme": "Site-wide settings. Text shown on the site lives in src/i18n/en.json and src/i18n/ar.json.",
+
+  "siteUrl": "https://banaweer.com",
+  "_siteUrl": "Your website's domain, no trailing slash. Used for canonical, hreflang, sitemap and Open Graph URLs.",
+
+  "storeUrl": "https://banaweer.sa",
+  "_storeUrl": "The external online store (Salla). Every Shop / المتجر button links here and opens in a new tab.",
+
+  "storeCategoryUrls": {
+    "mountain": "https://salla.sa/banaweer.sa/%D8%AF%D8%B1%D8%A7%D8%AC%D8%A7%D8%AA-%D8%AC%D8%A8%D9%84%D9%8A/c2016335392",
+    "road": "https://salla.sa/banaweer.sa/%D8%AF%D8%B1%D8%A7%D8%AC%D8%A7%D8%AA-%D8%B1%D9%88%D8%AF-%D9%88-%D9%87%D8%AC%D9%8A%D9%80%D9%86/c901005744",
+    "sport": "https://salla.sa/banaweer.sa/%D8%AF%D8%B1%D8%A7%D8%AC%D8%A7%D8%AA-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9/c1205490293",
+    "city": "https://salla.sa/banaweer.sa/%D8%AF%D8%B1%D8%A7%D8%AC%D8%A7%D8%AA-%D8%A7%D8%B7%D9%81%D8%A7%D9%84/c1715075445",
+    "rideons": "https://salla.sa/banaweer.sa/%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1/c1151158712",
+    "scooters": "https://salla.sa/banaweer.sa/%D8%A7%D8%B3%D9%83%D9%88%D8%AA%D8%B1%D8%A7%D8%AA/c1183968293",
+    "parts": "https://salla.sa/banaweer.sa/%D8%A7%D9%83%D8%B3%D8%B3%D9%88%D8%A7%D8%B1%D8%A7%D8%AA/c919181160",
+    "cobra": "https://salla.sa/banaweer.sa/%D8%AF%D8%B1%D8%A7%D8%AC%D8%A7%D8%AA-%D9%83%D9%88%D8%A8%D8%B1%D8%A7/c618885360",
+    "rambo": "https://salla.sa/banaweer.sa/%D8%AF%D8%B1%D8%A7%D8%AC%D8%A7%D8%AA-%D8%B1%D8%A7%D9%85%D8%A8%D9%88/c235597004",
+    "indian": "https://salla.sa/banaweer.sa/%D8%AF%D8%B1%D8%A7%D8%AC%D8%A7%D8%AA-%D9%87%D9%86%D8%AF%D9%8A%D8%A9/c387237126",
+    "electric": "https://salla.sa/banaweer.sa/%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1/c1151158712"
+  },
+  "_storeCategoryUrls": "Full links to store categories (category pages only work on salla.sa/banaweer.sa/...). An empty value falls back to storeUrl.",
+
+  "phone": "+966126716633",
+  "phoneDisplay": "+966 12 671 6633",
+  "customerService": [
+    { "tel": "+966558808821", "display": "+966 55 880 8821" },
+    { "tel": "+966583113388", "display": "+966 58 311 3388" },
+    { "tel": "+966580661199", "display": "+966 58 066 1199" }
+  ],
+  "whatsapp": "966126716633",
+  "_whatsapp": "International format, digits only. This is the WhatsApp Business number linked from banaweer.com.",
+
+  "email": "Store@banaweer.com",
+  "vatNumber": "300123853400003",
+
+  "formEndpoint": "https://formsubmit.co/ajax/Store@banaweer.com",
+  "_formEndpoint": "Contact form delivery via FormSubmit (no account needed). The first message triggers a one-time activation email to Store@banaweer.com; click its link, then FormSubmit gives you a random alias you can paste here instead of the email address (hides it from spammers). Any other service that accepts a POST (e.g. Formspree) also works.",
+
+  "mapQuery": "21.5385086,39.2075288",
+  "mapLink": "https://goo.gl/maps/GJtz5Juf7k1Xk5hk8",
+  "reviewsLink": "https://goo.gl/maps/GJtz5Juf7k1Xk5hk8",
+  "storeReviewsUrl": "https://salla.sa/banaweer.sa/testimonials",
+  "geo": { "latitude": "21.5385086", "longitude": "39.2075288" },
+
+  "social": {
+    "instagram": "https://www.instagram.com/banaweer1",
+    "x": "https://x.com/banaweerest",
+    "facebook": "https://www.facebook.com/banaweer.sa/",
+    "snapchat": "https://www.snapchat.com/add/banaweer1",
+    "tiktok": "https://www.tiktok.com/@Banaweer"
+  },
+
+  "postsPerPage": 6
+}
